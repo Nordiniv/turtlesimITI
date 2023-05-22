@@ -1,0 +1,39 @@
+running egg_info
+creating build/ITI_LAB1/ITI_LAB1.egg-info
+writing build/ITI_LAB1/ITI_LAB1.egg-info/PKG-INFO
+writing dependency_links to build/ITI_LAB1/ITI_LAB1.egg-info/dependency_links.txt
+writing entry points to build/ITI_LAB1/ITI_LAB1.egg-info/entry_points.txt
+writing requirements to build/ITI_LAB1/ITI_LAB1.egg-info/requires.txt
+writing top-level names to build/ITI_LAB1/ITI_LAB1.egg-info/top_level.txt
+writing manifest file 'build/ITI_LAB1/ITI_LAB1.egg-info/SOURCES.txt'
+reading manifest file 'build/ITI_LAB1/ITI_LAB1.egg-info/SOURCES.txt'
+writing manifest file 'build/ITI_LAB1/ITI_LAB1.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/nordin/workspace/ITI_LAB1/build/ITI_LAB1/build
+creating /home/nordin/workspace/ITI_LAB1/build/ITI_LAB1/build/lib
+creating /home/nordin/workspace/ITI_LAB1/build/ITI_LAB1/build/lib/ITI_LAB1
+copying ITI_LAB1/node2.py -> /home/nordin/workspace/ITI_LAB1/build/ITI_LAB1/build/lib/ITI_LAB1
+copying ITI_LAB1/node1.py -> /home/nordin/workspace/ITI_LAB1/build/ITI_LAB1/build/lib/ITI_LAB1
+copying ITI_LAB1/__init__.py -> /home/nordin/workspace/ITI_LAB1/build/ITI_LAB1/build/lib/ITI_LAB1
+running install
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running install_lib
+creating /home/nordin/workspace/ITI_LAB1/install/ITI_LAB1/lib/python3.10/site-packages/ITI_LAB1
+copying /home/nordin/workspace/ITI_LAB1/build/ITI_LAB1/build/lib/ITI_LAB1/node2.py -> /home/nordin/workspace/ITI_LAB1/install/ITI_LAB1/lib/python3.10/site-packages/ITI_LAB1
+copying /home/nordin/workspace/ITI_LAB1/build/ITI_LAB1/build/lib/ITI_LAB1/node1.py -> /home/nordin/workspace/ITI_LAB1/install/ITI_LAB1/lib/python3.10/site-packages/ITI_LAB1
+copying /home/nordin/workspace/ITI_LAB1/build/ITI_LAB1/build/lib/ITI_LAB1/__init__.py -> /home/nordin/workspace/ITI_LAB1/install/ITI_LAB1/lib/python3.10/site-packages/ITI_LAB1
+byte-compiling /home/nordin/workspace/ITI_LAB1/install/ITI_LAB1/lib/python3.10/site-packages/ITI_LAB1/node2.py to node2.cpython-310.pyc
+byte-compiling /home/nordin/workspace/ITI_LAB1/install/ITI_LAB1/lib/python3.10/site-packages/ITI_LAB1/node1.py to node1.cpython-310.pyc
+byte-compiling /home/nordin/workspace/ITI_LAB1/install/ITI_LAB1/lib/python3.10/site-packages/ITI_LAB1/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/nordin/workspace/ITI_LAB1/install/ITI_LAB1/share/ament_index
+creating /home/nordin/workspace/ITI_LAB1/install/ITI_LAB1/share/ament_index/resource_index
+creating /home/nordin/workspace/ITI_LAB1/install/ITI_LAB1/share/ament_index/resource_index/packages
+copying resource/ITI_LAB1 -> /home/nordin/workspace/ITI_LAB1/install/ITI_LAB1/share/ament_index/resource_index/packages
+copying package.xml -> /home/nordin/workspace/ITI_LAB1/install/ITI_LAB1/share/ITI_LAB1
+running install_egg_info
+Copying build/ITI_LAB1/ITI_LAB1.egg-info to /home/nordin/workspace/ITI_LAB1/install/ITI_LAB1/lib/python3.10/site-packages/ITI_LAB1-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/nordin/workspace/ITI_LAB1/build/ITI_LAB1/install.log'
